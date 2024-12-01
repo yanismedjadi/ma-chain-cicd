@@ -1,0 +1,4 @@
+git:5.6.0
+gitlab-plugin:1.9.6
+uno-choice:2.8.5
+pipeline-groovy-lib:744.v5b_556ee7c253
